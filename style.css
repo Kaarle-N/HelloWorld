@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(32, 35, 73);
+    font-family: Courier New, Courier, monospace;
+    text-align:center;
+    font-size: 50px;
+    
+}
+   
+body {
+    background-image: url("https://images2.alphacoders.com/273/thumb-1920-273270.jpg");
+       
+}
+
+.fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 30px;
+   text-align: center;
+   text-decoration: none;
+   margin: 5px 2px;
+   border-radius: 50%;
+   float: right;
+   position: relative;
+   margin-right: 10%;
+  
+}
+
+.fa-instagram {
+  background:rgb(32, 35, 73);
+  color: white;
+  
+  
+}
+
+p {
+   font-family: Courier New, Courier, monospace;
+   font-size: 20px;
+   color: rgb(32, 35, 73);
+   float: right;
+   position: relative;
+   margin-right: -12%;
+   margin-top: 7%
+}
+
+
+
+
+
+
+
